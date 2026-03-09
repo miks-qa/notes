@@ -1,4 +1,4 @@
-## Learning Notes 📚
+## 📚 Learning Notes
 
 Welcome to my **learning notes repository!**
 
