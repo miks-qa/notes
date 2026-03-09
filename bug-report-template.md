@@ -1,5 +1,4 @@
 ## Bug Report Format: *[App][Environment][Feature]: Short description of the bug.*
----
 
 ### [MyApp][Stage][ProfilePicture]: Double file extension is accepted.
 
@@ -14,8 +13,8 @@ User has access to the application and is in the profile settings page.
 
 **Expected Result:**<br>
 The system rejects the file and displays an error of "Invalid file format."<br>
-[Attached image of expected result]
+[Attached image/recording of expected result]
 
 **Actual Result:**<br>
 The system accepts the file with double extension and **does not** display an error of "Invalid file format."<br>
-[Attached image of actual result]
+[Attached image/recording of actual result]
