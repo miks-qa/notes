@@ -4,7 +4,8 @@
 
 **Pre-condition:** <br>
 User has access to the application and is in the administrators page. <br>
-Screen size is set to 320x256 (from developer tools simulator)
+Screen size is set to 320x256 (from developer tools simulator). <br>
+![320x256 setup](images/320x256-setup.png)
 ![320x256 developer tools simulator](images/320x256.png)
 
 **Steps to reproduce:**
