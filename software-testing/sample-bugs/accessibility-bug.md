@@ -4,7 +4,8 @@
 
 **Pre-condition:** <br>
 User has access to the application and is in the administrators page. <br>
-Screen size is set to 320x256 (from developer tools simulator)
+Screen size is set to 320x256 (from developer tools simulator). <br>
+![320x256 setup](images/320x256-setup.png)
 ![320x256 developer tools simulator](images/320x256.png)
 
 **Steps to reproduce:**
@@ -14,11 +15,11 @@ Screen size is set to 320x256 (from developer tools simulator)
 
 **Expected Result:** <br>
 The "Add admin" button is visible. <br>
-[Attached image/recording of expected result]
+![320x256 add admin button is visible](images/button-visible.png)
 
 **Actual Result:** <br>
 The "Add admin" button is **not** visible. <br>
-[Attached image/recording of actual result]
+![320x256 add admin button is NOT visible](images/button-not-visible.png)
 
 **Analysis:** <br>
 Found during accessibility testing for Sprint 123.

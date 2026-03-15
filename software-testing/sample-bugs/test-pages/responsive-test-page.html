@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Add Administrator - QA Test Page</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+.container {
+    max-width: 400px;
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+button {
+    padding: 8px 14px;
+    cursor: pointer;
+}
+
+.admin-list {
+    margin-top: 20px;
+}
+
+.admin {
+    padding: 8px;
+    border-bottom: 1px solid #eee;
+}
+
+/* intentional bug for 320x256 screen size */
+@media screen and (max-width: 320px) and (max-height: 256px) {
+    .add-admin {
+        display: none;
+    }
+    .header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 8px;
+}
+
+</style>
+</head>
+
+<body>
+
+<h2>Administrator Page</h2>
+
+<div class="container">
+
+<div class="header">
+<h3>Administrators</h3>
+<button class="add-admin">Add admin</button>
+</div>
+
+<div class="admin-list">
+<div class="admin">admin1@example.com</div>
+<div class="admin">admin2@example.com</div>
+</div>
+
+</div>
+
+</body>
+</html>
