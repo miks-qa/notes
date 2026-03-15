@@ -15,11 +15,11 @@ Screen size is set to 320x256 (from developer tools simulator). <br>
 
 **Expected Result:** <br>
 The "Add admin" button is visible. <br>
-[Attached image/recording of expected result]
+![320x256 add admin button is visible](images/button-visible.png)
 
 **Actual Result:** <br>
 The "Add admin" button is **not** visible. <br>
-[Attached image/recording of actual result]
+![320x256 add admin button is NOT visible](images/button-not-visible.png)
 
 **Analysis:** <br>
 Found during accessibility testing for Sprint 123.
