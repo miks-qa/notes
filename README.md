@@ -1,7 +1,10 @@
-## 📚 Mikka's Notes
+## 📚 Mikka's QA Notes
 
-Welcome to my **notes repository!**
+This repository contains sample QA documentation and learning notes, including:
+- Sample bug reports with clear steps to reproduce and expected vs. actual results
+- Sample test pages
+- Notes on QA practices, testing concepts, and related topics
 
-This is a personal knowledge space where I document what I've learned throughout my work in Quality Engineering and my ongoing curiosity to learn new concepts, including QA practices, programming, automation, and AI. Some examples are inspired by real experiences I encountered in projects.
+Some examples are inspired by real testing experiences and recreated in a simplified environment for demonstration purposes.
 
-Feel free to explore, and I hope this inspires others to keep learning too! 😃
+This repository serves as a portfolio of my QA thinking, documentation skills, and continuous learning as I continue to grow in software quality engineering.

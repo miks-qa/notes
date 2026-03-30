@@ -1,5 +1,3 @@
-## Bug Report Format: *[App][Accessibility][Environment][Feature]: Short description of the bug.*
-
 ### [App Name][Accessibility][Stage][Add Admin]: Add admin button is not visible on 320x256 screen size.
 
 **Pre-condition:** <br>

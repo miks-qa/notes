@@ -1,5 +1,3 @@
-## Bug Report Format: *[App][Environment][Feature]: Short description of the bug.*
-
 ### [App Name][Stage][Profile Picture]: Double file extension is accepted.
 
 **Pre-condition:** <br>
