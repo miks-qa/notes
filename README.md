@@ -2,6 +2,7 @@
 
 This repository contains sample QA documentation and learning notes, including:
 - Sample bug reports with clear steps to reproduce and expected vs. actual results
+- Sample test pages
 - Notes on QA practices, testing concepts, and related topics
 
 Some examples are inspired by real testing experiences and recreated in a simplified environment for demonstration purposes.
