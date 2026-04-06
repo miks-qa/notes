@@ -1,4 +1,4 @@
-### [App Name][Stage][Profile Picture]: Double file extension is accepted.
+### [App Name][Stage][Profile Picture]: Double file extension is accepted for profile picture upload.
 
 **Pre-condition:** <br>
 User has access to the application and is in the profile settings page.
@@ -16,6 +16,9 @@ The system rejects the file and displays an error of "Invalid file format."<br>
 **Actual Result:** <br>
 The system accepts the file with double extension and **does not** display an error of "Invalid file format."<br>
 [Attached image/recording of actual result]
+
+**Severity:** Medium <br>
+**Priority:** P3 <br>
 
 **Analysis:** <br>
 Found during smoke testing for Sprint 123 and might be related to another item's changes (*US123456*).
