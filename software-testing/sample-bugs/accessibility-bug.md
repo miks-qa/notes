@@ -19,6 +19,9 @@ The "Add admin" button is visible. <br>
 The "Add admin" button is **not** visible. <br>
 ![320x256 add admin button is NOT visible](images/button-not-visible.png)
 
+**Severity:** High <br>
+**Priority:** P2 <br>
+
 **Analysis:** <br>
 Found during accessibility testing for Sprint 123.
 
