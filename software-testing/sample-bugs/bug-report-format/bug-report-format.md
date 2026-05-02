@@ -14,3 +14,6 @@
 **Analysis:** [Indicate initial investigation, what sprint the bug was found, the environment, how it affects other features or if there's a workaround.]
 
 **Location of Element:** [Indicate the specific URL where the bug was found.]
+
+
+**Additional Notes:** It is also beneficial to link the bug to the associated test cases and user stories to maintain proper traceability.
