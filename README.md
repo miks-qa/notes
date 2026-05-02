@@ -7,4 +7,4 @@ This repository contains sample QA documentation and learning notes, including:
 
 Some examples are inspired by real testing experiences and recreated in a simplified environment for demonstration purposes.
 
-This repository serves as a portfolio of my QA thinking, documentation skills, and continuous learning as I continue to grow in software quality engineering.
+This repository serves as a portfolio of my QA thinking, documentation skills, and continuous learning in software quality engineering. It is actively maintained and will continue to grow as I expand my skills and explore new testing tools, techniques, and scenarios.
