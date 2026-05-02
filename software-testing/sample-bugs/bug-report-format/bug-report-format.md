@@ -16,4 +16,4 @@
 **Location of Element:** [Indicate the specific URL where the bug was found.]
 
 
-**Additional Notes:** It is also beneficial to link the bug to the associated test cases and user stories to maintain proper traceability.
+*(**Additional Notes:** It is also beneficial to link the bug to the associated test cases and user stories to maintain proper traceability.)*
